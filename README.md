@@ -1,4 +1,4 @@
-# Project-manager-google
+# Project Manager with Google Login
 
 *Technology used: Node js & Mongo DB
 
